@@ -3,7 +3,8 @@
 Coffee Espresso, şık bir tasarıma sahip, tamamen responsive bir kahve temalı web sitesi projesidir. Kullanıcı dostu arayüzüyle, kahve severlerin ilgisini çekecek şekilde tasarlanmıştır.
 
 ## 📽️ Demo 
-![Uploading CoffeeEspresso.gif.gif…]()
+![CoffeeEspresso gif](https://github.com/user-attachments/assets/a77812e5-2429-4c47-8919-9c13f8b2bd40)
+
 
 
 
